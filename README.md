@@ -263,7 +263,7 @@
   <img src="./assets/gif/pl (59).gif" width="70px" alt="">
   <img src="./assets/gif/pl (60).gif" width="70px" alt="">
   <img src="./assets/gif/pl (61).gif" width="70px" alt="">
-    <!--  ATS -->
+    <!-------------------------------------------  ATS -->
     <h1>ATS</h1>
     <img src="./assets/gif/ats.gif" width="50px" alt="">
     <img src="./assets/gif/ats (1).gif" width="50px" alt="">
@@ -277,7 +277,9 @@
     <img src="./assets/gif/ats (9).gif" width="50px" alt="">
     <img src="./assets/gif/ats (10).gif" width="50px" alt="">
   <!--  STICKERS -->
-  <h1>STICKERS</h1>
+  <div align="center"><h1>STICKERS</h1></div>
+  <div align="center"><h1>STICKERS</h1></div>
+  <div align="center"><h1>STICKERS</h1></div>
   <img src="./assets/stikers/ats (1).png" width="140px" alt="">
   <img src="./assets/stikers/ats (2).png" width="140px" alt="">
   <img src="./assets/stikers/ats (3).png" width="140px" alt="">
@@ -376,7 +378,8 @@
   <img src="./assets/stikers/ats (97).png" width="140px" alt="">
   <img src="./assets/stikers/ats (98).png" width="140px" alt="">
   <img src="./assets/stikers/ats (99).png" width="140px" alt="">
-  <img src="./assets/stikers/ats (100).png" width="140px" alt="">  <img src="./assets/stikers/ats (101).png" width="140px" alt="">
+  <img src="./assets/stikers/ats (100).png" width="140px" alt="">  
+  <img src="./assets/stikers/ats (101).png" width="140px" alt="">
   <img src="./assets/stikers/ats (102).png" width="140px" alt="">
   <img src="./assets/stikers/ats (103).png" width="140px" alt="">
   <img src="./assets/stikers/ats (104).png" width="140px" alt="">
