@@ -1,0 +1,17 @@
+body{
+  background-color: #090b10;
+  color: #ffffff;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Pangolin', cursive;
+  overflow-x: hidden;
+
+}
+
+.title {
+  position: relative;
+  top: 10px;
+  margin-bottom: 100px;
+  color: pink;
+  text-align: center;
+}
