@@ -1,7 +1,8 @@
+<div align="center">GIF Emojis 2023</div>
 
   <div id="mojis">
   <!--------------------------------- Verification -->
-  <h1>Verification Gif</h1>
+  <h1>Verification GIF</h1>
   <div class="container_emojis" wid>
     <img src="./assets/gif/vr (1).gif" width="50px" alt="">
     <img src="./assets/gif/vr (2).gif" width="50px" alt="">
@@ -19,7 +20,7 @@
     <img src="./assets/gif/vr (14).gif" width="50px" alt="">
   </div>
     <!------------------------------------ Dota 2 -->
-  <h1>Dota 2Gif</h1>
+  <h1>Dota 2 Gif</h1>
   <div class="container_emojis" wid>
   <img src="./assets/gif/dt (1).gif" width="30px" alt="">
   <img src="./assets/gif/dt (2).gif" width="30px" alt="">
