@@ -276,7 +276,7 @@
     <img src="./assets/gif/ats (8).gif" width="50px" alt="">
     <img src="./assets/gif/ats (9).gif" width="50px" alt="">
     <img src="./assets/gif/ats (10).gif" width="50px" alt="">
-  <!--  STICKERS -->
+  <!--------------------  STICKERS ---------------------------->
   <div align="center"><h1>STICKERS</h1></div>
   <div align="center"><h1>STICKERS</h1></div>
   <div align="center"><h1>STICKERS</h1></div>
