@@ -378,7 +378,7 @@
   <img src="./assets/stikers/ats (97).png" width="140px" alt="">
   <img src="./assets/stikers/ats (98).png" width="140px" alt="">
   <img src="./assets/stikers/ats (99).png" width="140px" alt="">
-  <img src="./assets/stikers/ats (100).png" width="140px" alt="">  
+  <img src="./assets/stikers/ats (100).png" width="140px"alt="">  
   <img src="./assets/stikers/ats (101).png" width="140px" alt="">
   <img src="./assets/stikers/ats (102).png" width="140px" alt="">
   <img src="./assets/stikers/ats (103).png" width="140px" alt="">
@@ -478,7 +478,7 @@
   <img src="./assets/stikers/ats (198).png" width="140px" alt="">
   <img src="./assets/stikers/ats (199).png" width="140px" alt="">
   <img src="./assets/stikers/ats (200).png" width="140px" alt="">
-  <img src="./assets/stikers/ats (200).png" width="140px" alt="">  <img src="./assets/stikers/ats (101).png" width="140px" alt="">
+  <img src="./assets/stikers/ats (200).png" width="140px" alt=""> <img src="./assets/stikers/ats (101).png" width="140px" alt="">
   <img src="./assets/stikers/ats (202).png" width="140px" alt="">
   <img src="./assets/stikers/ats (203).png" width="140px" alt="">
   <img src="./assets/stikers/ats (204).png" width="140px" alt="">
